@@ -1,0 +1,31 @@
+<svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logo" clip-path="url(#clip0)">
+<g id="all">
+<g id="waves">
+<path id="wave-up" d="M0.181808 22.1518L24.3841 22.1638L24.8723 23.3723L0.859818 23.5289L0.181808 22.1518Z" fill="#62A3FF"/>
+<path id="wave-down" d="M0.529755 24.124L24.732 24.1359L25.2202 25.3445L1.20776 25.501L0.529755 24.124Z" fill="#62A3FF"/>
+</g>
+<g id="ship">
+<g id="sail">
+<g id="down-sail">
+<path id="down-sail-right" d="M12.7497 12.4034V10.1828L23.7915 18.6048L12.7497 12.4034Z" fill="#0277BD"/>
+<path id="down-sail-left" d="M12.2185 12.4191V10.1984L1.17667 18.6204L12.2185 12.4191Z" fill="#004C8C"/>
+</g>
+<g id="up-sail">
+<path id="up-sail-right" d="M12.7783 9.41193V0.860209C14.0768 6.1045 18.5185 12.1427 21.9583 16.5053L12.7783 9.41193Z" fill="#0277BD"/>
+<path id="up-sail-left" d="M12.1845 9.44318V0.891459C10.886 6.13575 6.44435 12.1739 3.00455 16.5365L12.1845 9.44318Z" fill="#004C8C"/>
+</g>
+</g>
+<g id="hull">
+<path id="hull-left" d="M12.4693 21.6663H4.18757L1.76768 20.4466V18.9764L12.4585 13.4972L12.4693 21.6663Z" fill="#004C8C"/>
+<path id="hull-right" d="M12.4693 21.6663H20.751L23.1709 20.4466V18.9764L12.4801 13.4972L12.4693 21.6663Z" fill="#0277BD"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="25" height="27" fill="white"/>
+</clipPath>
+</defs>
+</svg>
